@@ -1,0 +1,15 @@
+ ====================================================================================
+ ==== This is the data file contains the postal address and the price of postage ====
+ ====================================================================================
+
+The Address is: 
+ ken
+ ddddd
+ dddddd
+ ddddd
+ ddddddd
+ The tracking Id: 12345678
+ The weight id: 100 grams 
+ The volume is: 300 cubic centimeters 
+
+ The Postage price is: 3 Euros 
